@@ -5,7 +5,7 @@
 
 ## Live Link of project
 
-[Movie Junction](https://debanjan-2002.github.io/Movie-Recommender-System/)
+[Movie Junction](https://hrishik-recommendation-engine.herokuapp.com/)
 
 ## Features
 
@@ -44,22 +44,18 @@ To run this project
     
 ## Screenshots
 
-![alt text](https://github.com/debanjan-2002/Movie-Recommender-System/blob/main/Images/Screenshots/Image_3.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_3.PNG?raw=true)
 
-![alt text](https://github.com/debanjan-2002/Movie-Recommender-System/blob/main/Images/Screenshots/Image_1.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_1.PNG?raw=true)
 
-![alt text](https://github.com/debanjan-2002/Movie-Recommender-System/blob/main/Images/Screenshots/Image_4.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_4.PNG?raw=true)
 
-![alt text](https://github.com/debanjan-2002/Movie-Recommender-System/blob/main/Images/Screenshots/Image_2.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_2.PNG?raw=true)
 
 
 ## Doubts
 
-For any doubts, email debanjan.edu.2002@gmail.com or connect with me through LinkedIn.
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjan-poddar/)
+For any doubts, email ashihrishik@gmail.com or connect with me through [LinkedIn](https://www.linkedin.com/in/hrishik-kanade-100129202/) .
 
 
 ## Lessons Learned
