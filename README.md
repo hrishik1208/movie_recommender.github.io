@@ -5,7 +5,7 @@
 
 ## Live Link of project
 
-[Movie Junction](https://hrishik-recommendation-engine.herokuapp.com/)
+[Movie Recommendation Junction](https://hrishik-recommendation-engine.herokuapp.com/)
 
 ## Features
 
@@ -44,13 +44,13 @@ To run this project
     
 ## Screenshots
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_3.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/blob/master/Images/Screenshots/Image_3.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_1.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_1.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_4.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_4.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_2.PNG?raw=true)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_2.PNG)
 
 
 ## Doubts
