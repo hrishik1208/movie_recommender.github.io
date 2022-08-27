@@ -46,11 +46,11 @@ To run this project
 
 ![alt text](https://github.com/hrishik1208/Recommendation_junction/blob/master/Images/Screenshots/Image_3.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_1.PNG)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/blob/master/Images/Screenshots/Image_1.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_4.PNG)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/blob/master/Images/Screenshots/Image_4.PNG)
 
-![alt text](https://github.com/hrishik1208/Recommendation_junction/tree/master/Images/Screenshots/Image_2.PNG)
+![alt text](https://github.com/hrishik1208/Recommendation_junction/blob/master/Images/Screenshots/Image_2.PNG)
 
 
 ## Doubts
