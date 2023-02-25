@@ -5,7 +5,7 @@
 
 ## Live Link of project
 
-[Movie Recommendation Junction](https://hrishik-recommendation-engine.herokuapp.com/)
+[Movie Recommendation Junction](https://https://hrishik1208.github.io/movie_recommender.github.io//)
 
 ## Features
 
